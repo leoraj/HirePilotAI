@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HirePilot.API.props" />
+</Project>
